@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aryan1283/LEETCODE/tree/master/0001-two-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1283/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryan1283/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1046-last-stone-weight](https://github.com/aryan1283/LEETCODE/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -23,8 +24,10 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryan1283/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryan1283/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryan1283/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryan1283/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
