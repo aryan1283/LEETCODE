@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryan1283/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/aryan1283/LEETCODE/tree/master/0432-all-oone-data-structure) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
