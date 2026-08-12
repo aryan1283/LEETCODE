@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryan1283/LEETCODE/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/aryan1283/LEETCODE/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan1283/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/aryan1283/LEETCODE/tree/master/0432-all-oone-data-structure) |
 ## Heap (Priority Queue)
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aryan1283/LEETCODE/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan1283/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -66,9 +68,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aryan1283/LEETCODE/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aryan1283/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/aryan1283/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aryan1283/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
