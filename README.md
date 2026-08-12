@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryan1283/LEETCODE/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aryan1283/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/aryan1283/LEETCODE/tree/master/0432-all-oone-data-structure) |
 ## Heap (Priority Queue)
 |  |
@@ -47,9 +48,14 @@
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/aryan1283/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/aryan1283/LEETCODE/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/aryan1283/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
